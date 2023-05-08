@@ -1,3 +1,6 @@
+# PURPOSE: DFS IMPLEMENTATION USING STACK OR RECURSION. HAS NOT ACCOUNTED FOR CYCLES. (add a set )
+
+
 # depth first search. explore one direction as far as possible before moving directions
 # RECOMMENED WHEN ANSWER IS FAR FROM THE SOURCE
 def dfs(graph,source):
